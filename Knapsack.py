@@ -77,7 +77,7 @@ class Greedy:
 
         return solution
 
-    def items(self) -> None:
+    def items(self) -> list:
         """
         :return: The list of tuples of items in the problem
         """
